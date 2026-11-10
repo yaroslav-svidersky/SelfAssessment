@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop: 🎓 known
+  - `try..catch`: 🎓 known
+  - Non-blocking: 👂 heard
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -17,16 +17,16 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 🎓 known
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
   - Future
   - Deferred
   - Sync generator
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🎓 known
   - `setImmediate`
   - `nextTick`
   - AbortController
@@ -68,10 +68,10 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 🎓 known
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
   - Promise.any
