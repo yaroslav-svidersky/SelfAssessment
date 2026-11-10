@@ -1,73 +1,73 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model h
-  - Modeling h
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm k
-  - Syntax k
-  - Semantics h
-  - Abstraction h
-  - Paradigm h
-  - Programm k
-  - Programming paradigm h
-  - Programming language k
-  - Contract h
-  - Module k
-  - Library h
-  - Package h
-  - Component h
-  - Framework h
-  - Platform h
-  - Source code h
-  - Object code h
-  - Machine code h
-  - Microcode h
-  - Software engineering h
-  - Decomposition h
-  - Control flow h
-  - Data flow h
-  - Code reuse h
-  - Defensive programming h
-  - Don't repeat yourself (DRY) k
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 👂 heard
+  - Abstraction: 👂 heard
+  - Paradigm: 👂 heard
+  - Programm: 🎓 known
+  - Programming paradigm: 👂 heard
+  - Programming language: 🎓 known
+  - Contract: 👂 heard
+  - Module: 🎓 known
+  - Library: 👂 heard
+  - Package: 👂 heard
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 👂 heard
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
+  - Microcode: 👂 heard
+  - Software engineering: 👂 heard
+  - Decomposition: 👂 heard
+  - Control flow: 👂 heard
+  - Data flow: 👂 heard
+  - Code reuse: 👂 heard
+  - Defensive programming: 👂 heard
+  - Don't repeat yourself (DRY): 🎓 known
   - KISS principle
 - Syntax and concepts
-  - Value k
-  - Identifier k
-  - Variable k
-  - Constant k
-  - Scalar h
-  - Literal h
-  - Expression k
-  - Heap h
-  - Function k
-  - Procedure h
-  - Method k
-  - Class h
-  - Prototype h
-  - Event h
-  - Type k
-  - Flag h
-  - Lexical scope k
-  - Code block k
-  - Conditions k
-  - Loops k
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 👂 heard
+  - Literal: 👂 heard
+  - Expression: 🎓 known
+  - Heap: 👂 heard
+  - Function: 🎓 known
+  - Procedure: 👂 heard
+  - Method: 🎓 known
+  - Class: 👂 heard
+  - Prototype: 👂 heard
+  - Event: 👂 heard
+  - Type: 🎓 known
+  - Flag: 👂 heard
+  - Lexical scope: 🎓 known
+  - Code block: 🎓 known
+  - Conditions: 🎓 known
+  - Loops: 🎓 known
   - Assignment
-  - Regular expression h
-  - Interface h
-  - Namespaces h
-  - Call stack h
-  - Naming conventions h
-  - Coding conventions h
-  - Camel case k
-  - Snake case h
-  - Kebab case h
-  - Trailing commas k
-  - Return early k
+  - Regular expression: 👂 heard
+  - Interface: 👂 heard
+  - Namespaces: 👂 heard
+  - Call stack: 👂 heard
+  - Naming conventions: 👂 heard
+  - Coding conventions: 👂 heard
+  - Camel case: 🎓 known
+  - Snake case: 👂 heard
+  - Kebab case: 👂 heard
+  - Trailing commas: 🎓 known
+  - Return early: 🎓 known
   - Fail-fast
 - Types
-  - Primitive types k
-  - Reference types k
+  - Primitive types: 🎓 known
+  - Reference types: 🎓 known
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,118 +82,118 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument k
-  - Parameter k
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
-  - Lambda expression h
-  - Side effects k
-  - Closure k
+  - Lambda expression: 👂 heard
+  - Side effects: 🎓 known
+  - Closure: 🎓 known
   - Partial application
-  - Currying h
+  - Currying: 👂 heard
   - Higher order
-  - Recursion h
+  - Recursion: 👂 heard
   - Tail call optimisation
-  - Callback k
+  - Callback: 🎓 known
   - Listener
-  - Composition h
+  - Composition: 👂 heard
   - Pipe
   - Memoize
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator h
+  - Generator: 👂 heard
   - Coroutine
 - Data structures
-  - Array k
-  - Structure h
+  - Array: 🎓 known
+  - Structure: 👂 heard
   - Record
-  - Enum h
-  - Instance h
-  - Object k
-  - Collection h
-  - Set h
-  - Hash table h
-  - Linked list h
-  - Doubly list h
+  - Enum: 👂 heard
+  - Instance: 👂 heard
+  - Object: 🎓 known
+  - Collection: 👂 heard
+  - Set: 👂 heard
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
+  - Doubly list: 👂 heard
   - Unrolled list
   - Circular list
-  - Queue h
-  - Stack h
+  - Queue: 👂 heard
+  - Stack: 👂 heard
   - Deque
-  - Tree h
-  - Graph h
-  - Iterator k
+  - Tree: 👂 heard
+  - Graph: 👂 heard
+  - Iterator: 🎓 known
   - Mutable state
   - Immutable state
-  - Serialization h
-  - String parsing h
-  - JSON h
-  - JSON5 h
-  - YAML h
+  - Serialization: 👂 heard
+  - String parsing: 👂 heard
+  - JSON: 👂 heard
+  - JSON5: 👂 heard
+  - YAML: 👂 heard
 - Networking
-  - DNS h
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4 h
-  - IPv6 h
-  - NAT h
-  - URL h
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
+  - NAT: 👂 heard
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
-  - Compiler h
-  - Just-in-time compilation h
-  - Ahead-of-time compilation h
+  - Compiler: 👂 heard
+  - Just-in-time compilation: 👂 heard
+  - Ahead-of-time compilation: 👂 heard
   - Transpiler
-  - Linter k
-  - Polyfill h
-  - Interpreter h
-  - Linker h
-  - Dynamic linking h
-  - Static linking h
-  - Runtime h
-  - Virtual machine h
+  - Linter: 🎓 known
+  - Polyfill: 👂 heard
+  - Interpreter: 👂 heard
+  - Linker: 👂 heard
+  - Dynamic linking: 👂 heard
+  - Static linking: 👂 heard
+  - Runtime: 👂 heard
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
-  - Containerization h
-  - Debugger h
-  - Tracing h
+  - Containerization: 👂 heard
+  - Debugger: 👂 heard
+  - Tracing: 👂 heard
   - Garbage collection
-  - Refactoring k
-  - Code review k
-  - Exception k
-  - Unittesting k
-  - git k
-  - Github k
-  - Docker h
+  - Refactoring: 🎓 known
+  - Code review: 🎓 known
+  - Exception: 🎓 known
+  - Unittesting: 🎓 known
+  - git: 🎓 known
+  - Github: 🎓 known
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers k
-  - Hard code h
-  - Soft code h
-  - Cryptic code h
+  - Magic numbers: 🎓 known
+  - Hard code: 👂 heard
+  - Soft code: 👂 heard
+  - Cryptic code: 👂 heard
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti h
-  - Silver bullet k
+  - Spaghetti: 👂 heard
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code h
-  - Unreachable code h
-  - Duplicate code k
+  - Dead code: 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops h
+  - Nested loops: 👂 heard
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case h
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,27 +202,27 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode h
-  - V8 h
+  - Bytecode: 👂 heard
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts h
-  - Drivers h
-  - Kernel h
+  - Interrupts: 👂 heard
+  - Drivers: 👂 heard
+  - Kernel: 👂 heard
   - Ring
-  - Virtual memory h
-  - File system h
-  - Linux k
-  - Unix h
-  - BSD h
-  - MacOS h
-  - Windows h
+  - Virtual memory: 👂 heard
+  - File system: 👂 heard
+  - Linux: 🎓 known
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS: 👂 heard
+  - Windows: 👂 heard
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
@@ -231,9 +231,9 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO h
+  - ISO: 👂 heard
   - MIME
   - OWASP
-  - UTF-8 h
+  - UTF-8: 👂 heard
   - W3C
   - ODMG

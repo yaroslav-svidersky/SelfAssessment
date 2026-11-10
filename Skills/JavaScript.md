@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object` k
-  - `Function` k
-  - `Boolean` k
-  - `Number` k
-  - `BigInt` h
-  - `String` k
-  - `Symbol` h
-  - `Infinity` h
-  - `NaN` k
-  - `undefined` k
-  - `null` k
-  - `this` h
-  - `instanceof` k
-  - `...spread` k
-  - `...rest` k
-  - `typeof` k
-  - Destructuring k
-  - Generators h
-  - Iterators h
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 👂 heard
+  - `String`: 🎓 known
+  - `Symbol`: 👂 heard
+  - `Infinity`: 👂 heard
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 👂 heard
+  - `instanceof`: 🎓 known
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
+  - `typeof`: 🎓 known
+  - Destructuring: 🎓 known
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
-  - Chaining h
+  - Chaining: 👂 heard
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global` h
+  - `global`: 👂 heard
   - `globalThis`
-  - `window` h
-  - Getters and setters h
+  - `window`: 👂 heard
+  - Getters and setters: 👂 heard
   - `__proto__`
-  - `prototype` h
-  - Equality operators k
-  - Logical operators h
+  - `prototype`: 👂 heard
+  - Equality operators: 🎓 known
+  - Logical operators: 👂 heard
   - Logical Assignment
-  - Bitwise operators h
-  - Ternary operator k
-  - `void` h
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 🎓 known
+  - `void`: 👂 heard
   - `yield`
-  - `await` k
+  - `await`: 🎓 known
   - Template literal
-  - Strict mode h
+  - Strict mode: 👂 heard
   - Hoisting
-  - `delete` h
-  - `in` k
+  - `delete`: 👂 heard
+  - `in`: 🎓 known
   - `super`
   - `eval`
-  - `static` h
-  - `Number.parseInt` h
-  - `Number.parseFloat` h
+  - `static`: 👂 heard
+  - `Number.parseInt`: 👂 heard
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields h
-  - Static class fields h
-  - Private class fields h
-  - Private class methods h
+  - Instance class fields: 👂 heard
+  - Static class fields: 👂 heard
+  - Private class fields: 👂 heard
+  - Private class methods: 👂 heard
 - Statements
-  - `if` k
-  - `while` k
-  - `do..while` h
-  - `for` k
-  - `for..in` h
-  - `for..of` k
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 👂 heard
+  - `for`: 🎓 known
+  - `for..in`: 👂 heard
+  - `for..of`: 🎓 known
   - `for await`
-  - `throw` k
-  - `break` k
-  - `continue` k
-  - `import` h
-  - `export` h
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 👂 heard
+  - `export`: 👂 heard
   - `label`
-  - `try..catch` k
-  - `switch` k
-  - `class` h
-  - `extends` h
+  - `try..catch`: 🎓 known
+  - `switch`: 🎓 known
+  - `class`: 👂 heard
+  - `extends`: 👂 heard
   - `with`
-  - `new` k
+  - `new`: 🎓 known
 - Functions
-  - Arrow function k
-  - Async function k
-  - Function declaration k
-  - Function expression k
-  - Default parameters k
+  - Arrow function: 🎓 known
+  - Async function: 🎓 known
+  - Function declaration: 🎓 known
+  - Function expression: 🎓 known
+  - Default parameters: 🎓 known
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` k
+  - `return`: 🎓 known
 - Data structures
-  - `Array` k
+  - `Array`: 🎓 known
   - `Map`
   - `Set`
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays h
+  - Typed arrays: 👂 heard
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp` h
-  - `Date` h
-  - `Math` h
+  - `RegExp`: 👂 heard
+  - `Date`: 👂 heard
+  - `Math`: 👂 heard
   - `Reflect`
-  - `Error` h
+  - `Error`: 👂 heard
   - `Atomics`
   - `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` h
-  - `console` h
-  - Timers k
+  - `Promise`: 👂 heard
+  - `console`: 👂 heard
+  - Timers: 🎓 known
 - Infrastructure
-  - V8 h
-  - Node.js h
-  - npm h
-  - prettier k
-  - MDN k
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 🎓 known
+  - MDN: 🎓 known
   - TC39
