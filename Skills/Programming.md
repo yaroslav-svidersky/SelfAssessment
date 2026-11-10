@@ -1,73 +1,73 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model h
+  - Modeling h
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Algorithm k
+  - Syntax k
+  - Semantics h
+  - Abstraction h
+  - Paradigm h
+  - Programm k
+  - Programming paradigm h
+  - Programming language k
+  - Contract h
+  - Module h
+  - Library h
+  - Package h
+  - Component h
+  - Framework h
+  - Platform h
+  - Source code h
+  - Object code h
+  - Machine code h
+  - Microcode h
+  - Software engineering h
+  - Decomposition h
+  - Control flow h
+  - Data flow h
+  - Code reuse h
+  - Defensive programming h
+  - Don't repeat yourself (DRY) k
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Value k
+  - Identifier k
+  - Variable k
+  - Constant k
+  - Scalar h
+  - Literal h
+  - Expression k
+  - Heap h
+  - Function k
+  - Procedure h
+  - Method k
+  - Class h
+  - Prototype h
+  - Event h
+  - Type k
+  - Flag h
+  - Lexical scope h
+  - Code block h
+  - Conditions h
+  - Loops k
   - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Regular expression h
+  - Interface h
+  - Namespaces h
+  - Call stack h
+  - Naming conventions h
+  - Coding conventions h
+  - Camel case k
+  - Snake case h
+  - Kebab case h
+  - Trailing commas k
+  - Return early k
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types h
+  - Reference types h
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,118 +82,118 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument k
+  - Parameter k
   - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Lambda expression h
+  - Side effects k
+  - Closure k
   - Partial application
-  - Currying
+  - Currying h
   - Higher order
-  - Recursion
+  - Recursion h
   - Tail call optimisation
-  - Callback
+  - Callback k
   - Listener
-  - Composition
+  - Composition h
   - Pipe
   - Memoize
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator h
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array k
+  - Structure h
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Enum h
+  - Instance h
+  - Object k
+  - Collection h
+  - Set h
+  - Hash table h
+  - Linked list h
+  - Doubly list h
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue h
+  - Stack h
   - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Tree h
+  - Graph h
+  - Iterator k
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Serialization h
+  - String parsing h
+  - JSON h
+  - JSON5 h
+  - YAML h
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 h
+  - IPv6 h
+  - NAT h
+  - URL h
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Compiler h
+  - Just-in-time compilation h
+  - Ahead-of-time compilation h
   - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
+  - Linter k
+  - Polyfill h
+  - Interpreter h
+  - Linker h
+  - Dynamic linking h
+  - Static linking h
+  - Runtime h
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
+  - Containerization h
+  - Debugger h
+  - Tracing h
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Refactoring k
+  - Code review k
+  - Exception h
+  - Unittesting h
+  - git k
+  - Github k
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Magic numbers k
+  - Hard code h
+  - Soft code h
+  - Cryptic code h
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti h
+  - Silver bullet k
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code h
+  - Unreachable code h
+  - Duplicate code k
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops h
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,27 +202,27 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode h
+  - V8 h
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
+  - Interrupts h
+  - Drivers h
+  - Kernel h
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
+  - Virtual memory h
+  - File system h
+  - Linux h
+  - Unix h
+  - BSD h
+  - MacOS h
+  - Windows h
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
@@ -231,9 +231,9 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO h
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG
