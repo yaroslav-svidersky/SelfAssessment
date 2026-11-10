@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers h
+  - Timers k
   - `setImmediate`
   - `nextTick`
   - AbortController

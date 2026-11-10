@@ -13,7 +13,7 @@
   - Programming paradigm h
   - Programming language k
   - Contract h
-  - Module h
+  - Module k
   - Library h
   - Package h
   - Component h
@@ -48,9 +48,9 @@
   - Event h
   - Type k
   - Flag h
-  - Lexical scope h
-  - Code block h
-  - Conditions h
+  - Lexical scope k
+  - Code block k
+  - Conditions k
   - Loops k
   - Assignment
   - Regular expression h
@@ -66,8 +66,8 @@
   - Return early k
   - Fail-fast
 - Types
-  - Primitive types h
-  - Reference types h
+  - Primitive types k
+  - Reference types k
   - Type systems
   - Strong typing
   - Weak typing
@@ -162,8 +162,8 @@
   - Garbage collection
   - Refactoring k
   - Code review k
-  - Exception h
-  - Unittesting h
+  - Exception k
+  - Unittesting k
   - git k
   - Github k
   - Docker h
@@ -214,7 +214,7 @@
   - Ring
   - Virtual memory h
   - File system h
-  - Linux h
+  - Linux k
   - Unix h
   - BSD h
   - MacOS h

@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
+  - `BigInt` h
+  - `String` k
+  - `Symbol` h
+  - `Infinity` h
+  - `NaN` k
+  - `undefined` k
+  - `null` k
+  - `this` h
+  - `instanceof` k
+  - `...spread` k
+  - `...rest` k
+  - `typeof` k
+  - Destructuring k
+  - Generators h
+  - Iterators h
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining h
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
+  - `global` h
   - `globalThis`
-  - `window`
-  - Getters and setters
+  - `window` h
+  - Getters and setters h
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
+  - `prototype` h
+  - Equality operators k
+  - Logical operators h
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators h
+  - Ternary operator k
+  - `void` h
   - `yield`
-  - `await`
+  - `await` k
   - Template literal
-  - Strict mode
+  - Strict mode h
   - Hoisting
-  - `delete`
-  - `in`
+  - `delete` h
+  - `in` k
   - `super`
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static` h
+  - `Number.parseInt` h
+  - `Number.parseFloat` h
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields h
+  - Static class fields h
+  - Private class fields h
+  - Private class methods h
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` k
+  - `while` k
+  - `do..while` h
+  - `for` k
+  - `for..in` h
+  - `for..of` k
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw` k
+  - `break` k
+  - `continue` k
+  - `import` h
+  - `export` h
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch` k
+  - `switch` k
+  - `class` h
+  - `extends` h
   - `with`
-  - `new`
+  - `new` k
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Arrow function k
+  - Async function k
+  - Function declaration k
+  - Function expression k
+  - Default parameters k
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` k
 - Data structures
-  - `Array`
+  - `Array` k
   - `Map`
   - `Set`
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays h
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `RegExp` h
+  - `Date` h
+  - `Math` h
   - `Reflect`
-  - `Error`
+  - `Error` h
   - `Atomics`
   - `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise` h
+  - `console` h
+  - Timers k
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 h
+  - Node.js h
+  - npm h
+  - prettier k
+  - MDN k
   - TC39
